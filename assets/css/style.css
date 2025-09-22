@@ -5195,3 +5195,8 @@ Gallery  Area
 .tool {
   margin-top: 50px;
 }
+.about-area,
+.service-area,
+.footer-area {
+  padding: 60px 0;
+}
