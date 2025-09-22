@@ -75,6 +75,7 @@
   .low-card {
     padding: 35px 32px;
     margin-bottom: 30px;
+    height: 350px;
   }
   .bor-right {
     border-right: none;
@@ -82,6 +83,7 @@
   }
   .about-area .about-image {
     margin-bottom: 60px;
+    margin-top: 20px;
   }
   .about-area .about-text ul li {
     font-size: 14px;
