@@ -821,3 +821,14 @@
   }
 }
 /*# sourceMappingURL=responsive.css.map */
+@media only screen and (max-width: 768px) {
+  /* .vertical {
+    height: 420px;
+  }
+  .horizontal {
+    height: 420px;
+  } */
+  .our-service-card {
+    height: auto;
+  }
+}
